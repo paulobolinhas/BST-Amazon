@@ -29,9 +29,8 @@ Operations as put <key> <value> may not work, in case it happens, restart.
 
 ## CONTRIBUTORS
 
-Group SD-050
- João Santos nº 57103
- Paulo Bolinhas nº 56300
- Rui Martins nº 56283
+ João Santos 
+ Paulo Bolinhas
+ Rui Martins 
 
 -------------------------------------------------------------------------------------------------
