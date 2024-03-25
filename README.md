@@ -29,8 +29,10 @@ Operations as put <key> <value> may not work, in case it happens, restart.
 
 ## CONTRIBUTORS
 
- João Santos 
  Paulo Bolinhas
+
+ João Santos 
+ 
  Rui Martins 
 
 -------------------------------------------------------------------------------------------------
