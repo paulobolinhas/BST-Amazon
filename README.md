@@ -31,10 +31,6 @@ Operations as put <key> <value> may not work, in case it happens, restart.
 
  Paulo Bolinhas
 
- João Santos
-
- João Matos
-
  João Santos 
  
  Rui Martins 
